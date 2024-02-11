@@ -1,0 +1,60 @@
+/* Mengatur gaya untuk elemen body */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Mengatur gaya untuk elemen header */
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Mengatur gaya untuk elemen h1 */
+h1 {
+  margin: 0;
+}
+
+/* Mengatur gaya untuk elemen main */
+main {
+  padding: 20px;
+}
+
+/* Mengatur gaya untuk elemen input */
+input {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 80%;
+}
+
+/* Mengatur gaya untuk elemen button */
+button {
+  background-color: #333;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  width: 15%;
+}
+
+/* Mengatur gaya untuk elemen table */
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+  width: 100%;
+}
+
+/* Mengatur gaya untuk elemen td */
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* Mengatur gaya untuk elemen td pertama di setiap baris */
+td:first-child {
+  font-weight: bold;
+  width: 20%;
+}
